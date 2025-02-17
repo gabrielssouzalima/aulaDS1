@@ -1,0 +1,31 @@
+Formação Técnica Análise e Desenvolvimento de Sistemas ETEC.
+
+Componentes Curriculares
+
+
+Programação Web I, II e III
+ 
+Análise e Projeto de Sistemas 1
+
+Design Digital 1 
+
+Fundamentos da Informática 
+ 
+Técnicas de Programação e Algoritmos 
+ 
+Banco de Dados I e II 
+
+Desenvolvimento de Sistemas 2 
+
+Ética e Cidadania Organizacional 
+
+Programação de Aplicativos Mobile I e II 
+
+Internet, Protocolos e Segurança de Sistemas da Informação 1 
+ 
+Planejamento e Desenvolvimento do Trabalho de Conclusão de Curso (TCC) em Desenvolvimento de Sistemas 
+
+Qualidade e Teste de Software 
+
+Sistemas Embarcados 
+
